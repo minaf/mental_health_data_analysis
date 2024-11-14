@@ -14,5 +14,4 @@ You will need to install the following libraries:
 For running the code, you can simply follow the steps in the notebook (_depression_analysis.ipynb_). 
 The dataset (csv file) is in the _data_ folder.
 
-# Medium post
-Check this post for better understanding: https://medium.com/@minfer/data-driven-approach-to-understand-depression-f3bf79817a62
+
